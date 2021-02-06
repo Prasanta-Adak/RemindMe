@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body{
+	background-color:white;
+}
+/* styling the form div */
+.form_container{
+	background-color:#deeaee; 
+	width:400px; 
+	heigth:400px;
+	margin-left:32%;
+	
+}
+
+.login_btn{
+	width:100%;
+}
+.logintitle{
+	color:red;
+}
